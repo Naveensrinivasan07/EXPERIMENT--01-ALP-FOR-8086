@@ -1,10 +1,10 @@
 # EXPERIMENT--01-ALP-FOR-8086
 
-Name :A JOANS JAY AUTHERS
+Name :NAVEEN S
 
-Roll no : 212221240019
+Roll no : 212222240070
 
-Date of experiment : 09/09/22
+
 
 
 ## Aim: 
